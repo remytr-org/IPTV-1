@@ -14,27 +14,9 @@
 </channel>
 
 <channel>
-<title><![CDATA[STALKER PORTAL uiptv]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://uiptv.dyndns.tv::mac=00:1a:79:4c:ee:ee@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
 <title><![CDATA[STALKER PORTAL germanyservers]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://portal.germanyservers.de:8000::mac=00:1a:79:2b:95:13@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[STALKER PORTAL darktv]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://iptv.darktv.nl:25461::mac=00:1A:79:70:A0:D8@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[STALKER PORTAL cmc]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://cmc.rtmp.io:8080::mac=00:1a:79:41:e4:f9@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
@@ -44,51 +26,15 @@
 </channel>
 
 <channel>
-<title><![CDATA[STALKER PORTAL nextlevel]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://its.nextleveliptv.net:8000::mac=00:1A:79:00:00:00@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[STALKER PORTAL bestbuy]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://bestbuyiptv.link:6969::mac=00:1A:79:FB:4E:7B@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
 <title><![CDATA[STALKER PORTAL mbm.watch]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://mbm.watch:8085::mac=00:1a:79:2d:ba:ba@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER PORTAL JB]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://jb.worldip.nl:1339::mac=00:1A:79:AA:6B:42@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
 <title><![CDATA[STALKER PORTAL kssport]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://54.37.152.109:8080::mac=00:1a:79:32:34:e0@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[STALKER PORTAL primeplus.tv]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://primeplus.tv:8080::mac=00:1A:79:00:23:0B@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[STALKER PORTAL kralsmart]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://vip.kralsmart.com:2086::mac=00:1A:79:46:09:65@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[STALKER PORTAL dreamsmart.me]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://dreamsmart.me:2082::mac=00:1A:79:65:2b:15@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
@@ -233,41 +179,6 @@
     <stream_url><![CDATA[https://www.youtube.com/watch?v=n-YnzZVzV9U]]></stream_url>
   </channel>
   <channel>
-    <title><![CDATA[EROXXX HD]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://193.9.60.131:8000/play/a00r/index.m3u8]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[HUSTLER HD]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://193.9.60.131:8000/play/a028/index.m3u8]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[E [18+]]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[NuArtTV [18+]]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[Russian Night (18+)]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[RussNoch]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://188.35.9.11:21051/udp/071l]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[Babestation 24 (DE) (18+)]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8]]></stream_url>
-  </channel>
-  <channel>
     <title><![CDATA[Jasmin TV HD (18+)]]></title>
     <description></description>
     <stream_url><![CDATA[http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8]]></stream_url>
@@ -291,56 +202,6 @@
     <title><![CDATA[VISIT-X TV HD (18+)]]></title>
     <description></description>
     <stream_url><![CDATA[http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[PASSIONXXX]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[EvilAngel]]></title>
-    <description></description>
-    <stream_url><![CDATA[rtmp://62.210.55.60/stream3xVJ/3x08]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[SCT classic]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1566]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[ALBA XXX-1]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1564]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[PRIVATE HD]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1567]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[Brazzers]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1563]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[DORCEL HD]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1562]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[HUSTLER HD]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1565]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[REDLIGHT HD]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/2974]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[Zest TV]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://188.35.9.5:10007/stolen/214g/parasite.install]]></stream_url>
   </channel>
   <channel>
     <title><![CDATA[Milf]]></title>
@@ -421,21 +282,6 @@
     <title><![CDATA[Blowjob]]></title>
     <description></description>
     <stream_url><![CDATA[http://live.redtraffic.xyz/blowjob.m3u8]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[VIVIDTV]]></title>
-    <description></description>
-    <stream_url><![CDATA[http://188.35.9.26:2031/udp/031a/]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[Trans]]></title>
-    <description></description>
-    <stream_url><![CDATA[rtmp://62.210.55.60/stream3xVJ/3x03]]></stream_url>
-  </channel>
-  <channel>
-    <title><![CDATA[Trans 500]]></title>
-    <description></description>
-    <stream_url><![CDATA[rtmp://62.210.55.60/stream3xVJ/3x08]]></stream_url>
   </channel>
   <channel>
     <title><![CDATA[RedTraffic Big Ass (18+)]]></title>
