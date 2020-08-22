@@ -9,12 +9,6 @@
 </channel>
 
 <channel>
-<title><![CDATA[STALKER hero.mymediapc]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://hero.mymediapc.net:25461::mac=00:1a:79:5f:df:20@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
 <title><![CDATA[STALKER p5.giffy.be]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://p5.giffy.be:8080::mac=00:1a:79:54:9d:bb@start@stlkr]]></playlist_url>
@@ -27,21 +21,15 @@
 </channel>
 
 <channel>
-<title><![CDATA[STALKER 4kiptv]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://4kiptv.vip:25461::mac=00:1a:79:02:59:4c@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
 <title><![CDATA[STALKER maxcotv]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://maxcotv.uk:8085::mac=00:1A:79:40:D7:67@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER m3ulink]]></title>
+<title><![CDATA[STALKER apati1]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://m3ulink.com:6969::mac=00:1A:79:51:80:6A@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://apati1.org:25461::mac=00:1A:79:3A:32:94@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
@@ -75,15 +63,33 @@
 </channel>
 
 <channel>
-<title><![CDATA[STALKER kssport]]></title>
+<title><![CDATA[STALKER ok2.se]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://54.37.152.109:8080::mac=00:1a:79:32:34:e0@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://ok2.se:8000::mac=00:1a:79:a4:6f:2b@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER gbent.eu]]></title>
+<title><![CDATA[STALKER ip.cs4ip]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://gbent.eu:8080::mac=00:1a:79:2a:ac:11@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://ip.cs4ip.com:8000::mac=00:1A:79:00:33:53@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[STALKER worldiptv]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://worldiptv.me:80::mac=00:1A:79:40:04:48@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[STALKER platinum-hosting]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://platinum-hosting.co.uk:80::mac=00:1A:79:48:53:D8@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[STALKER balkanfree]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://balkanfree.net:25461::mac=00:1A:79:36:4E:ED@start@stlkr]]></playlist_url>
 </channel>
 
   <channel>
