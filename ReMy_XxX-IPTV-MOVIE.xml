@@ -3,49 +3,85 @@
   <playlist_name><![CDATA[ReMy_XxX-IPTV-MOVIE]]></playlist_name>
 
 <channel>
-<title><![CDATA[ARAP & INGILIZ FILMLER]]></title>
+<title><![CDATA[STALKER 31.220.1.65:88]]></title>
 <description></description>
-<playlist_url><![CDATA[http://mytv.fun:8080/get.php?username=f7aivfl1o48835tt8hkuo9a4i&password=rj2ki0szm&type=m3u_plus&output=ts]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://31.220.1.65:88::mac=00:1A:79:43:42:AD@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER PORTAL liveline]]></title>
+<title><![CDATA[STALKER hero.mymediapc]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://hero.mymediapc.net:25461::mac=00:1a:79:5f:df:20@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[STALKER p5.giffy.be]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://p5.giffy.be:8080::mac=00:1a:79:54:9d:bb@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[STALKER aytekiptv]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://aytekiptv.com:8080::mac=00:1A:79:43:38:F3@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[STALKER 4kiptv]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://4kiptv.vip:25461::mac=00:1a:79:02:59:4c@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[STALKER maxcotv]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://maxcotv.uk:8085::mac=00:1A:79:40:D7:67@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[STALKER m3ulink]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://m3ulink.com:6969::mac=00:1A:79:51:80:6A@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[STALKER liveline]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://liveline.nu:8000::mac=00:1A:79:6A:68:82@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER PORTAL medotv]]></title>
+<title><![CDATA[STALKER medotv]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://medotv.nl:8000::mac=00:1A:79:47:77:25@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER PORTAL germanyservers]]></title>
+<title><![CDATA[STALKER germanyservers]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://portal.germanyservers.de:8000::mac=00:1a:79:2b:95:13@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER PORTAL yellow-star]]></title>
+<title><![CDATA[STALKER yellow-star]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://yellow-star.info:8000::mac=00:1A:79:62:99:46@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER PORTAL mbm.watch]]></title>
+<title><![CDATA[STALKER mbm.watch]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://mbm.watch:8085::mac=00:1a:79:2d:ba:ba@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER PORTAL kssport]]></title>
+<title><![CDATA[STALKER kssport]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://54.37.152.109:8080::mac=00:1a:79:32:34:e0@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER PORTAL gbent.eu]]></title>
+<title><![CDATA[STALKER gbent.eu]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://gbent.eu:8080::mac=00:1a:79:2a:ac:11@start@stlkr]]></playlist_url>
 </channel>
