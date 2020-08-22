@@ -1,6 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <items>
   <playlist_name><![CDATA[ReMy_XxX-IPTV-MOVIE]]></playlist_name>
+
+<channel>
+<title><![CDATA[ARAP & INGILIZ FILMLER]]></title>
+<description></description>
+<stream_url><![CDATA[http://mytv.fun:8080/get.php?username=f7aivfl1o48835tt8hkuo9a4i&password=rj2ki0szm&type=m3u_plus&output=ts]]></stream_url>
+</channel>
+  
+<channel>
+<title><![CDATA[ARAP PORTAL]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://mytv.fun:8080/get.php?username=f7aivfl1o48835tt8hkuo9a4i&password=rj2ki0szm&type=m3u_plus&output=ts]]></playlist_url>
+</channel>
+
 <channel>
 <title><![CDATA[STALKER PORTAL liveline]]></title>
 <description></description>
